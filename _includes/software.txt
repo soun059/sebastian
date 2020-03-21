@@ -1,0 +1,9 @@
+chrome
+music
+video
+player
+notepad
+pc
+uc
+virtual
+recycle

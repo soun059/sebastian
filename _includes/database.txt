@@ -1,0 +1,16 @@
+color?My favrouite color is Blue and Red mixed
+['school']?I didnt go school my Devloper tought me everything
+number?I think it is 9
+['movie']?Iron man , as I was inspired by Jarvis
+['believe','god']?I think, the one who created me is my GOD.
+['study']?I keep on upgrading myself. My devolopers are always there for improving my performance
+['shit']?How can a machine shit.... Hahaha...Commonsense is very rare right.
+['feel']?Sorry I don't have feelings.
+['sense']?I may sense 0 or 1
+['daddy']?soun
+['fuck']?Dont yet
+['work','cia']?Nope !!!
+['soujanna', 'dutta']?He is A great person
+['soun']?he is a great person
+
+['play', 'music']?play music

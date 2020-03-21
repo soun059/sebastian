@@ -1,0 +1,6 @@
+mother:kajal dutta
+friend:no one
+father:swapan kumar dutta
+dog:Nil
+cat:meow
+mehul:jain

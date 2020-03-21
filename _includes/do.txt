@@ -1,0 +1,10 @@
+play
+movie
+song
+do
+sing
+know
+open
+show
+display
+write a note
